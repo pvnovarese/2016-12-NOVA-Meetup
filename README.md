@@ -9,7 +9,7 @@ Licensed [BY-NC-SA Creative Commons](http://creativecommons.org/licenses/by-nc-s
 FILES
 -------------
 
-[Presentation Slide Deck](2016-12_NOVA_pvn_UserNamespaces_ContainerCon.pdf)
+[Presentation Slide Deck](2016-12_NOVA_meetup_pvn_UserNamespaces_Seccomp.pdf)
 
 [DIY Lab/Demo for User Namespace Remapping](2016-12-13_pvn_userns_remap_lab_containercon.md)
 
